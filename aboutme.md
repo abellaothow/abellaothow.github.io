@@ -1,13 +1,15 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Do you want to learn more about me?
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Abulla Othow. I have the following qualities:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- I'm enthusiast data Analyst.
+- I'm excel at Machine Learning Models, Exploratory Analysis and Data visualization. 
+- I'm equipped with diplomatic skills, project planning, execution and monitoring. 
+
 
 What else do you need?
 
